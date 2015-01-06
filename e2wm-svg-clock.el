@@ -54,4 +54,5 @@
     (e2wm:pst-window-plugin-set wm 'history next)
     (e2wm:pst-update-windows)))
 
+(provide 'e2wm-svg-clock)
 ;;; e2wm-svg-clock.el ends here
